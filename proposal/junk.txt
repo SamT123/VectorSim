@@ -1,0 +1,47 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./proposal.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size11.clo))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/titlesec/titlesec.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/tuenc.def))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lineno/lineno.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty)
+(./proposal.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+[1] [1] (./proposal.bbl [2] [3]) [4]
+Overfull \hbox (13.7816pt too wide) in paragraph at lines 109--109
+[]\TU/Arial(0)/m/n/10.95 Approved:| 
+[5] (./proposal.aux) )
+(see the transcript file for additional information)
+Output written on proposal.pdf (6 pages).
+Transcript written on proposal.log.
