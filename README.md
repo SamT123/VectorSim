@@ -4,7 +4,7 @@
 ## About
 Author: Sam Turner
 
-This repository contains code used for my Computational Methods in Ecology and Evolution MSc thesis.
+This repository contains code used for my Computational Methods in Ecology and Evolution MSc thesis. All code is contained within **scripts**.  Intermediate data, including simulations used in ABC, are written to **data**. Figures and other outputs are written to **results**. Those included in the final report are written to **final_figures**.
 
 ## scripts
 
