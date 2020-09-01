@@ -383,8 +383,11 @@ legend('topleft', legend = leg, col = col, lty = lty, title = 'demes')
 }
 
 
+
+
+
 ###################
-# ABC experiments #
+# ABC first look  #
 ###################
 
 library(foreach)

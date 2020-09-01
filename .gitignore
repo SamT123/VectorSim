@@ -1,5 +1,8 @@
 /data/*
+!data/README.md
 /notes/*
 /results/*
+!data/README.md
 /final_figures/*
+!final_figures/README.md
 /write_up/
