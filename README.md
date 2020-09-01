@@ -6,35 +6,24 @@ Author: Sam Turner
 
 This repository contains code used for my Computational Methods in Ecology and Evolution MSc thesis.
 
-Repository for my CMEE coursework. The directory for each Week contains four subdirectories: **code**, **data**, **results** (empty, populated when scripts from code are run), and **sandbox** (code and data used in development).
+## scripts
 
-Dependencies for each Week are specified in the README in the Week's subdirectory.
+**ABC_experiments.R**
+- All code relating to estimation of $N_e$ and $m$ by Approximate Bayesian Computation.
 
-## Contents
-### [Week 1](https://github.com/SamT123/CMEECoursework/tree/master/Week1)
-* UNIX
-* Shell scripting
-* LaTex
+**bias_demostration**
+- Demonstration that the use of classical linkage disequilibrium and allelic fluctuation estimators results in biased estimates in the stepping stone model
 
-### [Week 2](https://github.com/SamT123/CMEECoursework/tree/master/Week2)
-* Python I
+**classic_estimators.R**
+- Demonstration of classical linkage disequilibrium and allelic fluctuation estimators on single subpopulations
 
-### [Week 3](https://github.com/SamT123/CMEECoursework/tree/master/Week3)
-* R
+**poolseq.R**
+- Finding the relationship between individual sequencing allele frequency estimates and pooled sequencing estimates.
 
-### [Week 4](https://github.com/SamT123/CMEECoursework/tree/master/Week4)
-* Stats
+**propegate_new.cpp**
+- The internal propagation script for the allele frequency estimator implemented in `simulator_functions.R`
 
-### [Week 5](https://github.com/SamT123/CMEECoursework/tree/master/Week5)
-* Stats
-* GIS
+**simulator_functions.R**
+- All major functions are contained in this file, including the haplotype frequency simulator, sampling protocol, full ABC estimation method, and helper functions for evaluating the performance of the method. 
 
-### [Week 6](https://github.com/SamT123/CMEECoursework/tree/master/Week6)
-* Genomics and Bioinformatics
 
-### [Week 7](https://github.com/SamT123/CMEECoursework/tree/master/Week7)
-* Python II
-
-## Prerequisites
-### Python 3.x
-`pickle`	`stringdist`
